@@ -63,4 +63,4 @@ Extracts month from purchase dates to analyze seasonal trends.
 
 1. Clone the repository:
 ```bash
-https://github.com/jerem-a11y/retail_sale-analysis
+https://github.com/jerem-a11y/retail-sales-analysis
